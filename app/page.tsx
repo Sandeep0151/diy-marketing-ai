@@ -20,14 +20,14 @@ export default function HomePage() {
           </Badge>
 
           {/* Main Headline */}
-          <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight ">
+          <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
             <span className="bg-gradient-to-r from-purple-600 via-purple-500 to-orange-400 bg-clip-text text-transparent">
               Build Your Marketing Plan That Actually Works
             </span>
           </h1>
 
           {/* Subheading */}
-          <p className="text-xl md:text-1xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
+          <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
             Get a custom marketing strategy in 2 minutes. No fluff, no generic advice.
             <br />
             Just data-driven insights that grow your business.

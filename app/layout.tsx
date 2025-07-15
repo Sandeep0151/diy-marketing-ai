@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Brainito',
-  description: 'Created with Brainito',
+  description: 'Brainito DIY Marketing Plan',
   generator: 'Brainito',
 }
 

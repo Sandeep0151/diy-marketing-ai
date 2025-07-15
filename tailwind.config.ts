@@ -1,4 +1,3 @@
-import { Heading1 } from "lucide-react"
 import type { Config } from "tailwindcss"
 
 const config: Config = {
@@ -20,12 +19,6 @@ const config: Config = {
       },
     },
     extend: {
-      fontSize: {
-    base: "14px", // Set global base font size
-    sm: "0.875rem",
-    lg: "1rem",
-    xl: "1.3rem",
-  },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
